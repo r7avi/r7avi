@@ -6,15 +6,6 @@
 </div></br>
 <div align="left">
 
-  <h3>Additional Skills</h3>
-
-  <ul>
-    <li><strong>Linux Administration</strong></li>
-    <li><strong>Email Marketing</strong></li>
-    <li><strong>Python Programming</strong></li>
-    <li><strong>PostgreSQL</strong></li>
-  </ul>
-
   <h3>DevOps Expertise</h3>
 
   <ul>
@@ -22,6 +13,15 @@
       Route 53, SES, S3, EFS, RDS, Lightsail</li>
     <li><strong>Containerization & Orchestration:</strong> Docker</li>
     <li><strong>Development Tools:</strong> Cloud9, CloudFront</li>
+  </ul>
+
+  <h3>Additional Skills</h3>
+
+  <ul>
+    <li><strong>Linux Administration</strong></li>
+    <li><strong>Email Marketing</strong></li>
+    <li><strong>Python Programming</strong></li>
+    <li><strong>PostgreSQL</strong></li>
   </ul>
   <br />
 </div>

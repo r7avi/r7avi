@@ -55,6 +55,4 @@
   </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="100" height="100" /> </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
-      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"
-      alt="react" width="100" height="100" /> </a></p>
+</p>

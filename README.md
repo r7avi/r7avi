@@ -21,7 +21,7 @@
     <li><strong>Linux Administration</strong></li>
     <li><strong>Email Marketing</strong></li>
     <li><strong>Python Programming</strong></li>
-    <li><strong>PostgreSQL</strong></li>
+    <li><strong>PostgreSQL / MS SQL Server / MySQL</strong></li>
   </ul>
   <br />
 </div>

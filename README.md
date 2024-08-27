@@ -54,7 +54,14 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 alt="html5" width="100" height="100" /> </a>      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
 alt="javascript" width="100" height="100" /> </a>     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img
-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" /></a> 
+src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="100" height="100" /></a>  
+
+</br>
+</br>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img
+src="https://www.python.org/static/community_logos/python-powered-w-200x80.png" alt="python" /></a>   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img
+src="https://assets.ubuntu.com/v1/ff6a9a38-ubuntu-logo-2022.svg" alt="ubuntu linux"  width="220" height="auto"  /></a>  
 </br>
 ___
 

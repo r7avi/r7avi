@@ -28,10 +28,10 @@
 
 <br />
 
-<div>
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r7avi&show_icons=true&locale=en&layout=compact" alt="r7avi" /></p>
   <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=r7avi&show_icons=true&locale=en" alt="r7avi" />
   </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r7avi&show_icons=true&locale=en&layout=compact" alt="r7avi" /></p>
 
 </div> </br>
 

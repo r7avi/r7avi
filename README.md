@@ -54,12 +54,22 @@
 
 <div align="center">
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=r7avi&show_icons=true&locale=en&layout=compact" alt="r7avi" />
-  </p>
+  <h3>📌 Featured Work & Activity</h3>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=r7avi&show_icons=true&locale=en" alt="r7avi" />
+    Explore my <strong>pinned repositories</strong> below for real-world projects including:
+  </p>
+
+  <ul align="left">
+    <li>Java Spring Boot backend services</li>
+    <li>Full-stack React / Next.js applications</li>
+    <li>AWS & DevOps automation</li>
+    <li>Email infrastructure & backend systems</li>
+  </ul>
+
+  <p>
+    GitHub contribution graph and commit history reflect consistent,
+    production-focused development.
   </p>
 
 </div>
